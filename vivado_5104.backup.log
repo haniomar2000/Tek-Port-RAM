@@ -1,0 +1,29 @@
+#-----------------------------------------------------------
+# Vivado v2016.1 (64-bit)
+# SW Build 1538259 on Fri Apr  8 15:45:27 MDT 2016
+# IP Build 1537824 on Fri Apr  8 04:28:57 MDT 2016
+# Start of session at: Sun Apr 16 22:00:00 2023
+# Process ID: 5104
+# Current directory: C:/Users/HANIO/Tek Port RAM
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent3140 C:\Users\HANIO\Tek Port RAM\Tek Port RAM.xpr
+# Log file: C:/Users/HANIO/Tek Port RAM/vivado.log
+# Journal file: C:/Users/HANIO/Tek Port RAM\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/HANIO/Tek Port RAM/Tek Port RAM.xpr}
+Scanning sources...
+Finished scanning sources
+INFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specified
+INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'D:/Vivado/2016.1/data/ip'.
+open_project: Time (s): cpu = 00:00:21 ; elapsed = 00:00:09 . Memory (MB): peak = 800.973 ; gain = 122.145
+update_compile_order -fileset sources_1
+launch_runs impl_1
+[Sun Apr 16 22:00:30 2023] Launched impl_1...
+Run output will be captured here: C:/Users/HANIO/Tek Port RAM/Tek Port RAM.runs/impl_1/runme.log
+reset_run impl_1
+launch_runs impl_1
+[Sun Apr 16 22:03:54 2023] Launched impl_1...
+Run output will be captured here: C:/Users/HANIO/Tek Port RAM/Tek Port RAM.runs/impl_1/runme.log
+exit
+INFO: [Common 17-206] Exiting Vivado at Sun Apr 16 22:07:43 2023...
